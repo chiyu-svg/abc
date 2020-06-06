@@ -5,4 +5,8 @@ I want leave from you.
 I do new message for master.
 nihao   hello woed
 Creating a new branch is quack and simple
+<<<<<<< HEAD
 I do finish a bug on 23 clock.
+=======
+This is a test for dev
+>>>>>>> dev
