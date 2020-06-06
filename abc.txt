@@ -5,3 +5,4 @@ I want leave from you.
 I do new message for master.
 nihao   hello woed
 Creating a new branch is quack and simple
+This is a test for dev
